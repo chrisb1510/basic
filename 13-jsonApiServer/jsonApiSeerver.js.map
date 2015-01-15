@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "jsonApiSeerver.js",
+  "sourceRoot": "",
+  "sources": [
+    "jsonApiSeerver.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA;AAAA"
+}
